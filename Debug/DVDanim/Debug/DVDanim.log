@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Programare Cock++\OpenGL\DVDanim\DVDanim\main.cpp(176,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Programare Cock++\OpenGL\DVDanim\DVDanim\main.cpp(202,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DVDanim.vcxproj -> D:\Programare Cock++\OpenGL\DVDanim\Debug\DVDanim.exe
